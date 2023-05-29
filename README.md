@@ -10,3 +10,5 @@ When you select a specific gym, it opens the detailed view. Here, you can explor
 In the saved view, you can review all the gyms you've saved. Similar to the detailed view, you can access information about each gym, including photos, ratings, reviews, and details. If you wish to remove a gym from your saved list, simply tap the designated button.
 
 TopGym offers a seamless and user-friendly experience, empowering you to discover and navigate to the best gyms effortlessly.
+![Sunday, 28 May 2023 21:09:59](https://github.com/DenysSalaudin/TopGyms-App/assets/122059775/47855ecd-54d9-4121-a1b4-ca2026c15fb6)
+![Sunday, 28 May 2023 21:10:58](https://github.com/DenysSalaudin/TopGyms-App/assets/122059775/5420fd8a-1ac0-4686-ac25-5fe00a2f8bad)
